@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="279" src="https://dividers.crd.co/assets/images/gallery04/43aea477.gif?v=05d33f91"  />
-</div>
-
-###
-
-<p align="left">𝐃𝐍𝐈 : 𝐦𝐚𝐩𝐩𝐫𝐢𝐝𝐞 , 𝐜𝐡𝐢𝐥𝐝 𝐱 𝐚𝐝𝐮𝐥𝐭 𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 , 𝐟𝐚𝐭𝐩𝐡𝐨𝐛𝐢𝐜, 𝐡𝐨𝐦𝐨𝐩𝐡𝐨𝐛𝐢𝐜, 𝐫𝐚𝐜𝐢𝐬𝐭 , 𝐝𝐢𝐬𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐟𝐮𝐥 𝐨𝐟 𝐨𝐭𝐡𝐞𝐫 𝐫𝐞𝐥𝐢𝐠𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐞𝐭𝐜.  (¬`‸´¬)</p>
+>
 
 ###
 
