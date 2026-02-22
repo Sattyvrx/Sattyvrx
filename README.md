@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=3TEEN+.+bigender+%2B+pan" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=3TEEN+.+bigender+%26+pan)](https://git.io/typing-svg)
 
 <img align="right" height="50" src="https://64.media.tumblr.com/8adba471caa81a9523c6fa64d1252e23/13b74a8fcfc30b79-b0/s100x200/04a596faabf0543bced60b31d693104844013d0c.gifv"  />
 
