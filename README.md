@@ -46,12 +46,9 @@
 
 
 <div align="center">
-  <img height="90000" src="https://pbs.twimg.com/media/G63Bw_pbkAI4qs8?format=jpg&name=4096x4096"  />
+  <img height="90000" src="https://i.pinimg.com/736x/81/83/e4/8183e4430caa7e595d8215f79916f3cb.jpg"  />
 </div>
 
 ###
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%E2%80%9CIt+doesn%E2%80%99t+matter+who+I+am.%22;%E2%80%9CI%E2%80%99m+here+for+you+parrotx2%E2%80%A6+See%3F%E2%80%9D;%22+i'm+real.%22)](https://git.io/typing-svg)
