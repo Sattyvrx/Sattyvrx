@@ -51,4 +51,6 @@
 
 ###
 
+(photo by @velvsuki on X )
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%E2%80%9CIt+doesn%E2%80%99t+matter+who+I+am.%22;%E2%80%9CI%E2%80%99m+here+for+you+parrotx2%E2%80%A6+See%3F%E2%80%9D;%22+i'm+real.%22)](https://git.io/typing-svg)
