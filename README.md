@@ -5,6 +5,10 @@
 ###
 
 
+
+
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=407D4E&width=435&lines=%22+The+beginning+of+GG+smp!+%22" alt="Typing SVG" /></a>
 
 
@@ -15,6 +19,21 @@
 </div>
 
 ###
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img height="3000" src="https://i.pinimg.com/736x/b2/01/82/b20182da2a8c14a1b85cf5fc8c0f788f.jpg"  />
+</div>
+
+###
+
 
 
 
