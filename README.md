@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="3000" src="https://media.discordapp.net/attachments/1373065517786726433/1513573044952764557/f165e25dcf5d60a4065b490003af1a2c.jpg?ex=6a28383e&is=6a26e6be&hm=be9c8baf724f69623c5ca5d807f1d6d7c195b8389a48681350916902dac5118e&=&format=webp&width=919&height=184"  />
-</div>
-
-###
 
 
 
@@ -20,19 +15,6 @@
 
 ###
 
-
-
-
-
-
-
-
-
-<div align="center">
-  <img height="3000" src="https://i.pinimg.com/736x/b2/01/82/b20182da2a8c14a1b85cf5fc8c0f788f.jpg"  />
-</div>
-
-###
 
 
 
